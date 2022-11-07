@@ -36,17 +36,17 @@ let config = {
     {
       "Title": "Cashapp",
       "URL": "https://cash.app/$iiidksiii",
-      "icon_classes": "fa-solid fa-money-check-dollar"
+      "icon_classes": "fa-solid fa-dollar-sign"
     },
     {
       "Title": "Venmo",
       "URL": "https://www.venmo.com/u/dksiii",
-      "icon_classes": "fa-solid fa-money-check-dollar"
+      "icon_classes": "fa-solid fa-dollar-sign"
     },
     {
       "Title": "Zelle",
       "URL": "https://www.linkedin.com/in/harindulk/",
-      "icon_classes": "fa-solid fa-money-check-dollar"
+      "icon_classes": "fa-solid fa-dollar-sign"
     },
   ]
 }
