@@ -43,10 +43,5 @@ let config = {
       "URL": "https://www.venmo.com/u/dksiii",
       "icon_classes": "fa-solid fa-dollar-sign"
     },
-    {
-      "Title": "Zelle",
-      "URL": "https://www.linkedin.com/in/harindulk/",
-      "icon_classes": "fa-solid fa-dollar-sign"
-    },
   ]
 }
