@@ -6,12 +6,12 @@ let config = {
     {
       "Title": "Facebook",
       "URL": "https://www.facebook.com/Lungsh0t",
-      "icon_classes": "fas fa-facebook",
+      "icon_classes": "fab fa-facebook-square",
     },
     {
       "Title": "Instagram",
       "URL": "https://www.instagram.com/kent_on_bass/",
-      "icon_classes": "fab fa-instagram",
+      "icon_classes": "fab fa-instagram-square"
     },
     {
       "Title": "LinkedIn",
@@ -41,7 +41,7 @@ let config = {
     {
       "Title": "Venmo",
       "URL": "https://www.venmo.com/u/dksiii",
-      "icon_classes": "<i class="fa-solid fa-money-check-dollar"></i>"
+      "icon_classes": "fa-solid fa-money-check-dollar"
     },
     {
       "Title": "Zelle",
