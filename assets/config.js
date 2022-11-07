@@ -25,7 +25,7 @@ let config = {
     },
     {
       "Title": "Twitch",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://www.twitch.tv/lungsh0t",
       "icon_classes": "fab fa-twitch"
     },
     {
