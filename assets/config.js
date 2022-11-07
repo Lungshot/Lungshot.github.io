@@ -36,12 +36,12 @@ let config = {
     {
       "Title": "Cashapp",
       "URL": "https://cash.app/$iiidksiii",
-      "icon_classes": "fa-solid fa-dollar-sign"
+      "icon_classes": "fas fa-envelope"
     },
     {
       "Title": "Venmo",
       "URL": "https://www.venmo.com/u/dksiii",
-      "icon_classes": "fa-solid fa-dollar-sign"
+      "icon_classes": "fas fa-envelope"
     },
   ]
 }
