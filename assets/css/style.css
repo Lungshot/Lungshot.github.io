@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(-45deg, #d35ecd, #5aad45, #23a6d5, #3a0eb3);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(68,68,68,1) 87%, rgba(120,120,120,1) 100%);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
 }
@@ -34,7 +34,7 @@ img {
 .profile-name {
   text-align: center;
   padding: 10px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Titillium Web", sans-serif;
   color: white;
   font-size: 22px;
   letter-spacing: 2px;
@@ -43,7 +43,7 @@ img {
 .profile-about {
   text-align: center;
   padding: 2px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Titillium Web", sans-serif;
   color: white;
   font-size: 15px;
   letter-spacing: 2px;
@@ -60,7 +60,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   border-radius: 40px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Titillium Web", sans-serif;
   position: relative;
   font-size: 20px;
   letter-spacing: 3px;
@@ -96,7 +96,7 @@ img {
   margin-top: 30px;
   font-size: 20px;
   color: rgb(255, 255, 255);
-  font-family: "Titillium Web", black 900;
+  font-family: "Titillium Web", sans-serif;
 }
 
 .link-hide {
@@ -118,13 +118,13 @@ img {
     margin-left: auto;
     margin-right: auto;
     border-radius: 40px;
-    font-family: "Dosis", sans-serif;
+    font-family: "Titillium Web", sans-serif;
     position: relative;
   }
   .profile-about {
     text-align: center;
     padding: 2px;
-    font-family: "Dosis", sans-serif;
+    font-family: "Titillium Web", sans-serif;
     color: white;
     font-size: 15px;
     letter-spacing: 1px;
