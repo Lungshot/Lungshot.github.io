@@ -66,6 +66,7 @@ img {
   letter-spacing: 3px;
 }
 
+}
 .links-in {
   padding: 5px;
   border: 0.5px solid rgba(255, 255, 255, 0);
@@ -76,6 +77,8 @@ img {
   left: 20px;
   position: absolute;
   font-size: 20px;
+  animation: animate__zoomIn; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 1s; /* don't forget to set a duration! */
 }
 
 .hover {
