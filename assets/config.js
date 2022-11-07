@@ -11,7 +11,7 @@ let config = {
     {
       "Title": "Instagram",
       "URL": "https://www.instagram.com/kent_on_bass/",
-      "icon_classes": "fab fa-instagram-square"
+      "icon_classes": "fa-brands fa-instagram"
     },
     {
       "Title": "LinkedIn",
